@@ -1,0 +1,40 @@
+--- ZADANIE 2.1 ---
+Dla n = 542102: c = 121101, liczba dodawań = 2
+Dla n = 87654321012345678: c = 41312111011121314, liczba dodawań = 9
+
+--- ZADANIE 2.2 ---
+Dla n złożonego z sześciu 3, sześciu 6 i sześciu 9:
+c = 111111333333111111
+
+--- ZADANIE 3.1 ---
+Liczba: 294762
+Skrót: 97
+Różnica: 294665
+
+--- ZADANIE 3.2 ---
+Liczba liczb bez skrótu: 18
+Największa z nich: 28422
+
+--- ZADANIE 3.3 ---
+Liczby spełniające NWD(n, m) = 7:
+784
+14196
+2247
+24087
+3871
+10192
+
+--- ZADANIE 4.1 ---
+Wynik: 1221
+
+--- ZADANIE 4.2 ---
+101. liczba od największej: 1913
+
+--- ZADANIE 4.3 ---
+Liczby z w2 możliwe do złożenia z czynników w1:
+1638 1232 45 42
+
+--- ZADANIE 4.4 ---
+Średnia: 1212.4
+Długość ciągu: 50
+Pierwsza liczba: 139
