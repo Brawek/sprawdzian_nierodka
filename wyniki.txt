@@ -25,16 +25,15 @@ Liczby spełniające NWD(n, m) = 7:
 10192
 
 --- ZADANIE 4.1 ---
-Wynik: 1221
+Wynik: 212
 
 --- ZADANIE 4.2 ---
-101. liczba od największej: 1913
+101 liczba od największej: 1993
 
 --- ZADANIE 4.3 ---
-Liczby z w2 możliwe do złożenia z czynników w1:
-1638 1232 45 42
+547839600 2954285 573219169 573549984 212444924
 
 --- ZADANIE 4.4 ---
-Średnia: 1212.4
-Długość ciągu: 50
-Pierwsza liczba: 139
+Średnia: 1200.704918032787
+Długość ciągu: 61
+Pierwsza liczba: 1847
